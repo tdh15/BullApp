@@ -1,0 +1,11 @@
+{
+  "name": "bullapp",
+  "version": "1.0.0",
+  "description": "liars dice card game app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Thomas Hughes",
+  "license": "ISC"
+}
